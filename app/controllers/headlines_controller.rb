@@ -4,4 +4,6 @@ class HeadlinesController < ApplicationController
 
     render json: response.parse
   end
+
+  
 end
